@@ -2,7 +2,7 @@
 #include <stdlib.h>
 
 int main(int argc, char **argv) {
-  printf("Ean France Coleman and Zach Thompson/n");
-  printf("Electrical Engineering and Computer Science");
+  printf("Zach Thompson/n");
+  printf("Computer Science/n");
   return 0;
 }
