@@ -1,0 +1,8 @@
+#include <stdio.h>
+#include <stdlib.h>
+
+int main(int argc, char **argv) {
+  printf("Ean France Coleman and Zach Thompson/n");
+  printf("Electrical Engineering and Computer Science");
+  return 0;
+}
